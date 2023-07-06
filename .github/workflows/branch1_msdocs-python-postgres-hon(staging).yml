@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'msdocs-python-postgres-hon'
           slot-name: 'staging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CDB23D52FEEB4D2E98783BE474F4F4C3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10CD6E09C9014009B30B98F7530FB70E }}
